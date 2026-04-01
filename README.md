@@ -1,2 +1,3 @@
-# Clinvar_project
-뇌전증 clinvar DB 프로젝트
+# epilepsy_project
+뇌전증 플랫폼 DB 프로젝트
+
